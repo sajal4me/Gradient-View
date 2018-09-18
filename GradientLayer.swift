@@ -1,6 +1,6 @@
 //
 //  GradientView.swift
-//  JobGet
+//  
 //
 //  Created by Sajal on 09/07/18.
 //  Copyright © 2018 Sajal Gupta. All rights reserved.
